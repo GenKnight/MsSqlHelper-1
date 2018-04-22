@@ -11,7 +11,7 @@
 *.userprefs
 
 # User-specific folders
-/MsSqlHelperConsoleTester
+
 
 # Build results
 [Dd]ebug/
