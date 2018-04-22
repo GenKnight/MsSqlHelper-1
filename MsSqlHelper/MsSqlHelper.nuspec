@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MsSqlHelper</id>
+    <version>0.0.1</version>
+    <authors>Odd Karsten M. Svartaas</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Simple helper class for interacting with Sql Server
+    </description>
+    <copyright>n/a</copyright>
+    <language>en-UK</language>
+    <dependencies>
+      <dependency id="System.Spatial" version="5.6.4.0"  />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\MsSqlHelper.dll" target="lib\MsSqlHelper.dll" />
+  </files>
+</package>

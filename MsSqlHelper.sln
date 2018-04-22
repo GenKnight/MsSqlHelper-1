@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlHelper", "MsSqlHelper\MsSqlHelper.csproj", "{45F84991-4FCC-46A5-A2E8-F9D55A0C41FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlHelperConsoleTester", "MsSqlHelperConsoleTester\MsSqlHelperConsoleTester.csproj", "{F8AAF9B3-3454-40FE-B9A8-42AC8E90F59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F84991-4FCC-46A5-A2E8-F9D55A0C41FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F84991-4FCC-46A5-A2E8-F9D55A0C41FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F84991-4FCC-46A5-A2E8-F9D55A0C41FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F84991-4FCC-46A5-A2E8-F9D55A0C41FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AAF9B3-3454-40FE-B9A8-42AC8E90F59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AAF9B3-3454-40FE-B9A8-42AC8E90F59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AAF9B3-3454-40FE-B9A8-42AC8E90F59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AAF9B3-3454-40FE-B9A8-42AC8E90F59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
